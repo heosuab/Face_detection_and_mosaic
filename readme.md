@@ -5,4 +5,4 @@
 
 ![process](https://user-images.githubusercontent.com/53646976/123312385-3ace2880-d563-11eb-8066-7651caacb43c.PNG){: width="70%" height="70%"}
 
-<img src="media/results.png" width="70%" height="70%" align="center">
+<p align="center"><img src="media/results.png" width="70%" height="70%"></p>
