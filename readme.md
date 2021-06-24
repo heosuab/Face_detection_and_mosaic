@@ -5,5 +5,5 @@
 
 <img src="media/results.png" width="70%" height="70%">
 
-<img src="media/process.PNG" width="60% height="60%>
+<img src="media/process.png" width="60% height="60%>
 
